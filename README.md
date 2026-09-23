@@ -39,8 +39,8 @@ Most of my larger projects live on GitLab, so check there for the bigger work!
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.shion.dev/api?username=dylanhavelaerts&theme=tokyonight&show_icons=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dylanhavelaerts&theme=tokyonight&layout=compact" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=dylanhavelaerts&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=14400&v=2" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dylanhavelaerts&theme=tokyonight&layout=compact&cache_seconds=14400&v=2" alt="Top languages" height="165" />
 </p>
 
-![GitHub streak](https://streak-stats.demolab.com/?user=dylanhavelaerts&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com/?user=dylanhavelaerts&theme=tokyonight&v=2)
