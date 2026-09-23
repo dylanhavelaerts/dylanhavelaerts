@@ -8,7 +8,6 @@ Most of my larger projects live on GitLab, so check there for the bigger work!
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-havelaerts/)
-[![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/your-gitlab-username)
 
 ## Tech Stack
 ### Frontend
