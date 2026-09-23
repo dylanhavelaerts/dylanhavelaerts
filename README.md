@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&width=600&lines=Hey%2C+I'm+Dylan;Final-year+IT+student;Building+backends+%26+distributed+systems" alt="Typing SVG" />
 </a>
 
+I'm a last year IT student, my github is a bit dry since most of the bigger projects are done using gitlab!
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dylan-havelaerts/) 
 
