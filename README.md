@@ -1,14 +1,16 @@
-# About Me:
+## About Me
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&width=600&lines=Hey%2C+I'm+Dylan;Final-year+IT+student;Building+backends+%26+distributed+systems" alt="Typing SVG" />
 </a>
 
-I'm a last year IT student, my github is a bit dry since most of the bigger projects are done using gitlab!
+Final-year IT student with a focus on backend development and distributed systems.
+Most of my larger projects live on GitLab, so check there for the bigger work!
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dylan-havelaerts/) 
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-havelaerts/)
+[![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/your-gitlab-username)
 
-# Tech Stack:
+## Tech Stack
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,7 +37,11 @@ I'm a last year IT student, my github is a bit dry since most of the bigger proj
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# GitHub Stats:
-![](https://streak-stats.demolab.com/?user=dylanhavelaerts&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api?username=dylanhavelaerts&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dylanhavelaerts&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## GitHub Stats
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=dylanhavelaerts&theme=tokyonight&show_icons=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dylanhavelaerts&theme=tokyonight&layout=compact" alt="Top languages" height="165" />
+</p>
+
+![GitHub streak](https://streak-stats.demolab.com/?user=dylanhavelaerts&theme=tokyonight)
